@@ -1,4 +1,5 @@
 // Inigo Quilez 2019
+// find this code at https://www.shadertoy.com/view/3s33zj
 
 // Based on https://github.com/graphitemaster/normals_revisited
 //
